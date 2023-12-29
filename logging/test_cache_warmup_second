@@ -1,0 +1,8 @@
+INFO:test_cache_warmup_second:Page https://stage.univero.cc load time on visit #0: 2.5380918979644775 seconds
+INFO:test_cache_warmup_second:Page https://stage.univero.cc/dashboard/account/ load time on visit #0: 1.1065952777862549 seconds
+INFO:test_cache_warmup_second:Page https://stage.univero.cc/univers load time on visit #0: 0.4119877815246582 seconds
+INFO:test_cache_warmup_second:Page https://stage.univero.cc/fair load time on visit #0: 0.264998197555542 seconds
+INFO:test_cache_warmup_second:Page https://stage.univero.cc/aboutus load time on visit #0: 0.24100160598754883 seconds
+INFO:test_cache_warmup_second:Page https://stage.univero.cc/contacts load time on visit #0: 0.23199892044067383 seconds
+INFO:test_cache_warmup_second:Page https://stage.univero.cc/dashboard/visa load time on visit #0: 0.6853916645050049 seconds
+INFO:test_cache_warmup_second:Page https://stage.univero.cc/dashboard/news load time on visit #0: 0.6230015754699707 seconds

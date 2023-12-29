@@ -1,0 +1,8 @@
+{"level": "info", "timestamp": "2023-12-28T11:59:46.646649Z", "process_id": 34760, "msg": "Page https://stage.univero.cc load time on visit #0: 2.067105770111084 seconds"}
+{"level": "info", "timestamp": "2023-12-28T11:59:48.586228Z", "process_id": 34760, "msg": "Page https://stage.univero.cc/dashboard/account/ load time on visit #0: 1.9355671405792236 seconds"}
+{"level": "info", "timestamp": "2023-12-28T11:59:48.971229Z", "process_id": 34760, "msg": "Page https://stage.univero.cc/univers load time on visit #0: 0.38500094413757324 seconds"}
+{"level": "info", "timestamp": "2023-12-28T11:59:49.228229Z", "process_id": 34760, "msg": "Page https://stage.univero.cc/fair load time on visit #0: 0.2569997310638428 seconds"}
+{"level": "info", "timestamp": "2023-12-28T11:59:49.461226Z", "process_id": 34760, "msg": "Page https://stage.univero.cc/aboutus load time on visit #0: 0.23299717903137207 seconds"}
+{"level": "info", "timestamp": "2023-12-28T11:59:49.729626Z", "process_id": 34760, "msg": "Page https://stage.univero.cc/contacts load time on visit #0: 0.2683994770050049 seconds"}
+{"level": "info", "timestamp": "2023-12-28T11:59:50.419623Z", "process_id": 34760, "msg": "Page https://stage.univero.cc/dashboard/visa load time on visit #0: 0.6899974346160889 seconds"}
+{"level": "info", "timestamp": "2023-12-28T11:59:50.960677Z", "process_id": 34760, "msg": "Page https://stage.univero.cc/dashboard/news load time on visit #0: 0.5410537719726562 seconds"}
